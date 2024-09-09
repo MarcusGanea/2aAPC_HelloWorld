@@ -35,10 +35,6 @@ Technologien im Einsatz:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
