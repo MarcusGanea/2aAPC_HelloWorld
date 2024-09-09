@@ -11,7 +11,7 @@ Diese Anwendung ist die Beispiel Anwendung von IntelliJ...<br>
 
 git checkout origin/master
 ```
-##oder
+## oder
 ```cmd
 git clone https://github.com/MarcusGanea/2aAPC_HelloWorld
 
