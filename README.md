@@ -1,16 +1,19 @@
 <a name="readme-top"></a>
 # HelloWorld
-Author: Gerhard Jarz <br>
+Author: Ganea Marcus-Alin <br>
 LBS Eibiswald | 2aAPC
 
-Nur eine Demo Anwendung...<br>
-Hier könnte die Anwendung erklärt werden...
+Diese Anwendung ist die Beispiel Anwendung von IntelliJ...<br>
 
 ## Installation
 
 ```cmd
 
 git checkout origin/master
+```
+##oder
+```cmd
+git clone https://github.com/MarcusGanea/2aAPC_HelloWorld
 
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
