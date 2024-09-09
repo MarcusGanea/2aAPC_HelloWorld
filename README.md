@@ -31,7 +31,7 @@ Technologien im Einsatz:
 
 ## Screenshots
 
-![Screen Shot][product-screenshot](..//Screen.png)
+![Screen Shot][product-screenshot](../Screen.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
