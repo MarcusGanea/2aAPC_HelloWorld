@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 # HelloWorld
 Author: Ganea Marcus-Alin <br>
-LBS Eibiswald | 2aAPC
+LBS Eibiswald | 2aAPC <br>
 Erstellt am 09.09.2024
 
 Diese Anwendung ist die Beispiel Anwendung von IntelliJ...<br>
