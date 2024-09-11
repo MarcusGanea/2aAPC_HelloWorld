@@ -41,3 +41,10 @@ Technologien im Einsatz:
 [java.com]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 [java-url]: https://www.java.com/de/
 [product-screenshot]: Screen.png
+
+## Quellen
+
+* https://github.com/darsaveli/Readme-Markdown-Syntax
+* https://learngitbranching.js.org/?locale=de_DE
+* https://www.atlassian.com/de/git/tutorials
+* https://www.eduvidual.at/course/view.php?id=180905&section=2
