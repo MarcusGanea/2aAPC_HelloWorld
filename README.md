@@ -2,8 +2,29 @@
 # HelloWorld
 Author: Ganea Marcus-Alin <br>
 LBS Eibiswald | 2aAPC
+Erstellt am 09.09.2024
 
 Diese Anwendung ist die Beispiel Anwendung von IntelliJ...<br>
+
+## Das Ziel der Übung
+
+* Notwendigkeit einer Sourcecodeverwaltung erklären
+* Funktionen welche ein Tool zur Verwaltung von Source Codes mitbringen sollte
+* 3 Beispiele für Verwaltunstools nennen
+* GIT Installationsablauf für Server / Client beschreiben
+* Wichtige Funktionen anhand der Konsolenbefehle dokumentieren (lokal)
+1. commit
+2. branch
+3. merge
+4. checkout/switch
+5. rebase
+6. cherry-pick
+7. reset
+* Wichtige Funktionen für Remote Anwendung von GIT: 
+
+1. push
+2. pull
+3. origin 
 
 ## Installation
 
