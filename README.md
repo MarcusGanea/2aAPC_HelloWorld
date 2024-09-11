@@ -7,6 +7,7 @@ Erstellt am 09.09.2024
 Diese Anwendung ist die Beispiel Anwendung von IntelliJ...<br>
 
 ## Das Ziel der Übung
+### Erstelle für die erste JAVA Übung eine README.md für gitHub
 
 * Notwendigkeit einer Sourcecodeverwaltung erklären
 * Funktionen welche ein Tool zur Verwaltung von Source Codes mitbringen sollte
